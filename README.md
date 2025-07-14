@@ -1,46 +1,46 @@
 # Gestum
 
-**Gestum** es una aplicación web robusta y escalable de **gestión empresarial**, desarrollada con **Java + Spring Boot**. Este proyecto nace con el objetivo de ofrecer herramientas eficientes para administrar procesos internos de pequeñas y medianas empresas, manteniendo una arquitectura profesional desde el inicio.
+**Gestum** is a robust and scalable **business management web application**, developed using **Java + Spring Boot**. This project was created to offer efficient tools to manage internal processes for small and medium-sized businesses, while maintaining a professional architecture from the start.
 
 ---
 
-## 🚀 Características principales
+## 🚀 Key Features
 
-- Backend desarrollado en **Java con Spring Boot**.
-- Arquitectura **RESTful**.
-- Conectividad dual a bases de datos: **PostgreSQL** y **MySQL**.
-- Frontend responsivo con **HTML, CSS y JavaScript** puro.
-- Enfoque en **modularidad**, **escalabilidad** y **buenas prácticas**.
-- Control de versiones profesional con **Git**.
-- Listo para integración futura con frameworks como **React** o **Vue** (opcional).
+- Backend buitl with **Java and Spring Boot**.
+- **RESTful** Architecture.
+- Dual database support: **PostgreSQL** and **MySQL**.
+- Responsive frontend using **pure HTML, CSS y JavaScript**.
+- Focused on **modularity**, **scalability** and **clean code practices**.
+- Professional version control with **Git**.
+- Ready for future integration with frameworks like **React** or **Vue** (optional).
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Technologies Used
 
-| Área                 | Tecnología                     |
+| Area                 | Technology                     |
 |----------------------|--------------------------------|
 | Backend              | Java 21, Spring Boot 3         |
 | API                  | Spring Web (RESTful)           |
-| Seguridad            | Spring Security (planificada)  |
+| Security             | Spring Security (planned)      |
 | DBMS                 | PostgreSQL y MySQL             |
 | ORM                  | Spring Data JPA + Hibernate    |
 | Frontend             | HTML5, CSS3, JavaScript        |
-| Control de versiones | Git + GitHub                   |
-| Build Tool           | Maven o Gradle (elige uno)     |
+| Version Control      | Git + GitHub                   |
+| Build Tool           | Maven o Gradle                 |
 
 ---
 
-## 📦 Módulos del sistema (en desarrollo)
+## 📦 System Modules (In progress)
 
-- [ ] **Gestión de usuarios** (registro, inicio de sesión, roles)
-- [ ] **Módulo de inventario**
-- [ ] **Gestión de ventas y facturación**
-- [ ] **Dashboard administrativo**
-- [ ] **Reportes dinámicos**
-- [ ] **Configuración y ajustes del sistema**
+- [ ] **User management** (registration, login, roles)
+- [ ] **Inventory module**
+- [ ] **Sales and billing management**
+- [ ] **Admin dashboard**
+- [ ] **Dynamic reporting**
+- [ ] **System settings and configuration**
 
 ---
 
-## 🧠 Arquitectura del proyecto
+## 🧠 Project architecture
 
