@@ -1,18 +1,18 @@
 # Gestum
 
-**Gestum** is an individual web application for **student and university task & project management**, designed and built with a **modular and scalable architecture**. [file:1]
+**Gestum** is an individual web application for **student and university task & project management**, designed and built with a **modular and scalable architecture**.
 
-The goal of this project is to strengthen real-world backend engineering skills through a clean REST API, solid persistence design, and professional version control practices. [file:1]
+The goal of this project is to strengthen real-world backend engineering skills through a clean REST API, solid persistence design, and professional version control practices.
 
 ---
 
 ## 🚀 Key Features
 
-- RESTful backend built with **Java + Spring Boot**. [file:1]
-- Modular structure focused on **scalability** and maintainability. [file:1]
-- Persistence layer using **PostgreSQL** (relational) and **MongoDB** (document). [file:1]
-- Emphasis on good practices: clean code, clear separation of concerns, and evolvable design. [file:1]
-- Version control and collaboration-ready workflow with **Git/GitHub**. [file:1]
+- RESTful backend built with **Java + Spring Boot**.
+- Modular structure focused on **scalability** and maintainability.
+- Persistence layer using **PostgreSQL** (relational) and **MongoDB** (document).
+- Emphasis on good practices: clean code, clear separation of concerns, and evolvable design.
+- Version control and collaboration-ready workflow with **Git/GitHub**.
 
 ---
 
@@ -43,13 +43,13 @@ The goal of this project is to strengthen real-world backend engineering skills 
 
 ## 🧠 Architecture Notes
 
-Gestum is being developed with a modular approach so each feature can evolve independently (domain separation, maintainable packages, and clear boundaries between API, business logic, and persistence). [file:1]
+Gestum is being developed with a modular approach so each feature can evolve independently (domain separation, maintainable packages, and clear boundaries between API, business logic, and persistence).
 
 ---
 
 ## 🛠️ Status
 
-**Actively in development.** [file:1]
+**Actively in development.**
 
 ---
 
