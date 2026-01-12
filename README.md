@@ -53,13 +53,6 @@ Gestum is being developed with a modular approach so each feature can evolve ind
 
 ---
 
-## 🔗 Repository
-
-Add your direct repository link here (recommended), for example:  
-`https://github.com/<username>/gestum`
-
----
-
 ## 📌 Roadmap
 
 - [ ] Define MVP scope (core modules and rules)
